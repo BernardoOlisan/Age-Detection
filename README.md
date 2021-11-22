@@ -8,7 +8,7 @@ making it live and use Face Detection!
 ## How to use it?
 1. Download the project
 2. Open Console and cd to the location of it
-3. type 'python model.py'
+3. type ´´´python model.py´´´
 4. That's All!✌️
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -20,5 +20,5 @@ y también usa Computer Vision para ¡Hacerlo en vivo y usando la Detección de 
 ## ¿Cómo usarlo?
 1. Descarga el proyecto
 2. Abra la Consola y cd a la ubicación de la misma.
-3. escriba 'python model.py'
+3. escriba ´´´python model.py´´´
 4. ¡Eso es todo! ✌️
